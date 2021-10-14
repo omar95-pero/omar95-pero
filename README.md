@@ -2,7 +2,7 @@
 I'm Omar - WebDeveloper.
 
 
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
