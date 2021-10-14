@@ -1,7 +1,3 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
 ## Hi, I'm <a href="https://github.com/omar95-pero" target="_blank">Omar Pero</a>!
 (Use dark theme to find my socials ;)
 
@@ -13,7 +9,7 @@
 <a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
+-->
 <br />
 <br />
 <br />
