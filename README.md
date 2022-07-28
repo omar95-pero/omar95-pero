@@ -1,5 +1,5 @@
-# ![alt text]([url](https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?s=612x612))
-![My image]([http://url/to/image.jpg](https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?s=612x612))
+# ![alt text](https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?s=612x612)
+![My image](https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?s=612x612)
 
 ## Hi, I'm <a href="https://github.com/omar95-pero" target="_blank">Omar Pero</a>!
 
