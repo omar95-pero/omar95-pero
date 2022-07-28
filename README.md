@@ -1,3 +1,6 @@
+![GitHub Logo](https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?s=612x612)
+Format: ![Alt Text](https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?s=612x612)
+
 ## Hi, I'm <a href="https://github.com/omar95-pero" target="_blank">Omar Pero</a>!
 
 
