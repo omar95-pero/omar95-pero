@@ -1,6 +1,4 @@
 
-Optimizing your GitHub profile can make it more engaging and professional. Below is an optimized version of your profile:
-
 Hi, I'm Omar Pero! 👋
 About Me
 👨‍💻 Backend Developer specialized in PHP and Laravel with 4+ years of experience creating robust, scalable, and efficient web applications.
